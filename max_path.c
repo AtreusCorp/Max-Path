@@ -1,10 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
 #include <string.h>
 
-// No lines should be longer than this
-// though feel free to edit at will
+// Feel free to edit the line length 
+// and create an outragious triangle
 #define MAXLINE 512
 #define KNRM  "\x1B[0m"
 #define KRED  "\x1B[31m"
